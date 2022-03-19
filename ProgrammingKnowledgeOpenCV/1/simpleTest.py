@@ -3,6 +3,7 @@ image_folder_path = 'C:\\Users\\5454\\Desktop\\pythonProject\\1\\'
 
 img = cv2.imread(  'human.png',-1)
 
+
 print(cv2.__version__)
 print(img)
 
